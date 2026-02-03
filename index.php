@@ -14,7 +14,7 @@ $userBio = "Casual Gamer • White Monster Enjoyer • Anime Enthusiast";
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
 
 <!-- MAIN CSS -->
-<link rel="stylesheet" href="css/mainStyle.css">
+<link rel="stylesheet" href="mainstyle.css">
 
 </head>
 
@@ -49,18 +49,15 @@ $userBio = "Casual Gamer • White Monster Enjoyer • Anime Enthusiast";
         </p>
 
         <button class="customButton" type="button">
-        ENTER THE VLOG
+            ENTER THE VLOG
         </button>
     </div>
 
     <div class="customAvatar">
-        <img src="assets/kazuma.jpg" alt="Anime Gamer Avatar">
+        <img src="kazuma.jpg" alt="Anime Gamer Avatar">
     </div>
 
 </section>
-
-<!-- MAIN JS -->
-<script src="js/mainScript.js"></script>
 
 </body>
 </html>
